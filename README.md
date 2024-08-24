@@ -26,3 +26,4 @@ index.js: Contains the game logic, including the random number generation and re
 
 # Acknowledgments
 Designed and developed by Andres Landazabal.
+![Screenshot 2024-08-24 122951](https://github.com/user-attachments/assets/8173dec3-b81c-48d9-8112-e1baef0de17d)
